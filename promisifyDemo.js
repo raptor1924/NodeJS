@@ -1,4 +1,4 @@
-// Require in trails module from trails.js
+// Require in 'trails' module from trails.js
 const trails = require('./trails.js');
 // Require in util module here
 const util = require('util');
